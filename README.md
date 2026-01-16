@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajendra jena</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendrajena09&label=Profile%20views&color=0e75b6&style=flat" alt="rajendrajena09" /> </p>
 
-- 🌱 I’m currently learning **Advanced JS and React js**
+- 🌱 I’m currently learning **Machine Learning and GenAi**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML,CSS,JS,REACT,PYTHON,SQL**
 
 - 📫 How to reach me **rajendrajena898@gmail.com**
 
